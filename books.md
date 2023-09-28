@@ -1,10 +1,9 @@
-# Annie's favorite books / films
+# Annie's favorite films
 ## let the bullet fly
 ## paprika
 ## inglorious bastards
 
-
-# Daniel's favorite books / films
-## heading 2
-
-
+# Daniel's favorite films
+## Seven Samuraii
+## Barbenheimer
+## Akira
