@@ -4,6 +4,6 @@
 ## inglorious bastards
 
 # Daniel's favorite films
-## Seven Samuraii
-## Barbenheimer
-## Akira
+Seven Samuraii
+Barbenheimer
+Akira
