@@ -1,5 +1,7 @@
 # Annie's favorite books / films
-## heading 2
+## let the bullet fly
+## paprika
+## inglorious bastards
 
 
 # Daniel's favorite books / films
